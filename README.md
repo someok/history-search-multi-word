@@ -1,3 +1,7 @@
+由于 [原作者](https://github.com/zdharma/history-search-multi-word) [删库跑路](https://hk.v2ex.com/t/811747) 了，所以将其最后版本备份了一份。
+
+---
+
 [![License (GPL version 3)](https://img.shields.io/badge/license-GNU%20GPL%20version%203-blue.svg?style=flat-square)](./LICENSE)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](./LICENSE)
 ![ZSH 5.0.0](https://img.shields.io/badge/zsh-v5.0.0-orange.svg?style=flat-square)
